@@ -1,9 +1,7 @@
 My name is Matías. I love many things but programming has a special place in my heart since a young age. Here is some info on me...
 
 
-🔭 I’m currently working on a alkemy challenge so i can accelerate my tech career.
-
-🌱 I’m currently searching for a iOS developer position.
+🔭 I’m currently working on wabi project!
 
 👯 I’m studying at Universidad Nacional De La Plata (Computer Science).
 
